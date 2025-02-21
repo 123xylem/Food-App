@@ -1,4 +1,4 @@
-# Yhangry Technical Test - Menu Filter App
+#  Menu Filter App
 
 ## Overview
 
@@ -38,20 +38,8 @@ This project implements a menu filtering system with pagination and real-time pr
    - Implementing infinite scroll
    - Calculating prices with minimum spend
 
-4. **Type Safety**
-   - Proper TypeScript definitions
-   - Handling nullabe values
-   - Query response typing
 
 ## Improvements Needed
 
-- Add proper error boundries
-- Implement caching stratgy
-- Add loading skeletons
+- Implement REDIS caching stratgy
 - Improve test coverage
-- Add proper documentation
-
-## Setup
-
-1. Clone repo
-2. Install dependancies:
